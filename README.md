@@ -18,5 +18,5 @@ And block math
 \[
 e = sum_(n=0)^oo 1/n!
 
-a^2 = b^2
+a_2 = b_2
 \]
