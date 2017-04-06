@@ -3,7 +3,7 @@ Test note for github-notebook
 
 hello
 
-```
+```c
 #include <stdio.h>
 
 int main () {
