@@ -15,9 +15,10 @@ Some text with inline math \(a^2 + b^2 = c^2\)
  
 And block math
  
-\[
-e = sum_(n=0)^oo 1/n!
-\]
+```math
+1 + 1 = 2
+```
+
 ggdfgf
 
 
