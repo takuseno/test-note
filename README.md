@@ -11,10 +11,14 @@ int main () {
 }
 ```
 
-Some text with inline math \(a^2 + b^2 = c^2\)
+Some text with inline math $a^2 + b^2 = c^2$
  
 And block math
  
 ```math
 1 + 1 = 2
 ```
+
+$$
+\sqrt{3x-1}+(1+x)^2
+$$
