@@ -17,3 +17,9 @@ In shared autonomy, shared autonomy, deep reinforcement learning
 	- not requires domain specific pre-trained models
 - dealing with shared control and non-shared control
 	- semi-autonomous robot requires both control
+  
+### why non-parametric deep reinforcement learning?
+- less data to train
+- penalty for interaction
+	-  poor sample efficiency
+  		- needs quick adaptation
