@@ -23,6 +23,3 @@ In shared autonomy, shared autonomy, deep reinforcement learning
 - penalty for interaction
 	-  poor sample efficiency
   		- needs quick adaptation
-
-
-hello
