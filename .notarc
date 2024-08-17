@@ -1,4 +1,5 @@
 {
   "theme": "one-dark-pro",
-  "autoSaveIntervalSec": 60
+  "autoSaveIntervalSec": 60,
+  "colorMode": "dark"
 }
