@@ -14,7 +14,7 @@ int main () {
 ```
 
 Some text with inline math $a^2 + b^2 = c^2$
- 
+
 And block math
 
 $$
