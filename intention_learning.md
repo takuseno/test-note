@@ -6,6 +6,7 @@ We must tackle the problem of adapting user intention in various situation
 
 In shared autonomy, shared autonomy, deep reinforcement learning
 
+
 ### problems
 - deep reinforcement learning
 	- requires pre-trained models
@@ -23,3 +24,5 @@ In shared autonomy, shared autonomy, deep reinforcement learning
 - penalty for interaction
 	-  poor sample efficiency
   		- needs quick adaptation
+
+hellojkljlkdfsj
