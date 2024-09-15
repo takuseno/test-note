@@ -25,11 +25,3 @@ $$
 - hello
 - hello
 
-hello
-
-
-hello
-
-hello
-
-ehh
