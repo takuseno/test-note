@@ -7,8 +7,11 @@ Test note for github-notebook
 
 #### hello
 
+~~hello~~
 
 hello
+
+`hello`
 
 ```c
 #include <stdio.h>
