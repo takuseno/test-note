@@ -1,12 +1,10 @@
 ## intention learning via Non-parametric Deep Reinforcement Learning
-hello
-this paper proposes adaptation method with semi-autonomous teleoperated robot
-hello
+
+this paper proposes adaptation method with semi-autonomous teleoperated robot hello
+
 We must tackle the problem of adapting user intention in various situation
 
 In shared autonomy, shared autonomy, deep reinforcement learning
-
-hello
 
 ### problems
 - deep reinforcement learning
@@ -25,8 +23,5 @@ hello
 - penalty for interaction
 	-  poor sample efficiency
   		- needs quick adaptation
-
-hello
-hello
-
-hello
+        - hello
+    - hello
