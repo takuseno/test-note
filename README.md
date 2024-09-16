@@ -29,6 +29,10 @@ $$
 \sqrt{3x-1}+(1+x)^2
 $$
 
+$$
+a+b+c+\frac{\sqrt{abc + 1}}{2}
+$$
+
 - hello
 - hello
 - hello
