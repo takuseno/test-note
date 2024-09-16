@@ -33,6 +33,13 @@ $$
 a+b+c+\frac{\sqrt{abc + 1}}{2}
 $$
 
+$$
+\begin{bmatrix}
+a & b \\
+c & d
+\end{bmatrix}
+$$
+
 - hello
 - hello
 - hello
