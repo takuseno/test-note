@@ -9,3 +9,6 @@
 - https://arxiv.org/abs/2308.07124
 - https://arxiv.org/abs/2401.03065
 - https://arxiv.org/abs/2407.01489
+- https://arxiv.org/abs/2403.06095
+- https://openreview.net/forum?id=kXHgEYFyf3
+- https://arxiv.org/abs/2404.00599
