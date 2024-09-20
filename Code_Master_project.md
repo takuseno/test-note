@@ -1,5 +1,6 @@
 ## References
 - https://qiita.com/tinymouse/items/4d359674f6b2494bb22d
+- https://huggingface.co/bartowski/Meta-Llama-3.1-8B-Instruct-GGUF
 
 ## Things to take a deeper look at
 - https://github.com/chroma-core/chroma
