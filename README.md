@@ -49,4 +49,4 @@ $$
 
 hello
 
-[relative link](/intention_learning.md)
+[relative link](intention_learning.md)
