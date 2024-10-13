@@ -1,6 +1,6 @@
 ---
 marp: true
-them: gaia
+theme: gaia
 transition: true
 ---
 
