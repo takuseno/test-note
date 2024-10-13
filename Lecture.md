@@ -28,3 +28,4 @@ Table
 |row2 | 3 | 4 |
 
 Drag and drop your pictures.
+![.images/10e61d33-609d-44e9-b74d-7754687a4788.png](.images/10e61d33-609d-44e9-b74d-7754687a4788.png)
