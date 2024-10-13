@@ -19,8 +19,6 @@ $$
 $$
 And, of course, inline math $c = mc^2$ is avaiable.
 
----
-
 Table
 | | column1 | column2 |
 |:-:|:-:|:-:|
