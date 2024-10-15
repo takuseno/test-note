@@ -14,9 +14,11 @@ int main(int argc, char* argv[]) {
   - nested lists
   
 You can also write mathematical equations:
+
 $$
 \dfrac{\partial^ 2u(x,t)}{\partial t^ 2}=c^ 2\dfrac{\partial^ 2 u(x,t)}{\partial x^ 2}
 $$
+
 And, of course, inline math $F = mc^2$ is avaiable.
 
 Table
