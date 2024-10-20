@@ -29,3 +29,4 @@ Table
 
 Drag and drop your pictures.
 ![bg left](.images/10e61d33-609d-44e9-b74d-7754687a4788.png)
+![.images/85e926b3-d980-40fe-baf3-ea97350dec7d.png](.images/85e926b3-d980-40fe-baf3-ea97350dec7d.png)
